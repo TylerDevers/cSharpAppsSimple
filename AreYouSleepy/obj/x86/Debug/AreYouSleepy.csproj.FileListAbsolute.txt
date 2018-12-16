@@ -1,0 +1,6 @@
+/home/tyler/Projects/AreYouSleepy/bin/Debug/AreYouSleepy.exe
+/home/tyler/Projects/AreYouSleepy/bin/Debug/AreYouSleepy.pdb
+/home/tyler/Projects/AreYouSleepy/obj/x86/Debug/AreYouSleepy.csprojAssemblyReference.cache
+/home/tyler/Projects/AreYouSleepy/obj/x86/Debug/AreYouSleepy.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/AreYouSleepy/obj/x86/Debug/AreYouSleepy.exe
+/home/tyler/Projects/AreYouSleepy/obj/x86/Debug/AreYouSleepy.pdb

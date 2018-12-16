@@ -1,0 +1,6 @@
+/home/tyler/Projects/Grades/bin/Debug/Grades.exe
+/home/tyler/Projects/Grades/bin/Debug/Grades.pdb
+/home/tyler/Projects/Grades/obj/x86/Debug/Grades.csprojAssemblyReference.cache
+/home/tyler/Projects/Grades/obj/x86/Debug/Grades.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/Grades/obj/x86/Debug/Grades.exe
+/home/tyler/Projects/Grades/obj/x86/Debug/Grades.pdb
