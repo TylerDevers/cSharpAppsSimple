@@ -17,5 +17,6 @@ namespace Grades
             Console.WriteLine(stats.lowestGrade);
             Console.WriteLine(stats.highestGrade);
         }
+
     }
 }

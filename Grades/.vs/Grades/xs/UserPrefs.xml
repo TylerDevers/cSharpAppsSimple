@@ -1,11 +1,5 @@
 ﻿<Properties StartupConfiguration="{FD70D7AD-E63D-436B-92C1-D9A81EDFC197}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
-    <Files>
-      <File FileName="Program.cs" Line="13" Column="37" />
-      <File FileName="GradeBook.cs" Line="10" Column="9" />
-      <File FileName="GradeStatistics.cs" Line="1" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
