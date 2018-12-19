@@ -6,9 +6,13 @@ namespace myConsoleApp
     {
         static void Main(string[] args)
         {
-            var t = "nine";
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            int a = 1;
+            int x = 6;
+
+            a = a + x++;
+            Console.WriteLine(a);
+            Console.WriteLine(x);
+            
         }
     }
 }
