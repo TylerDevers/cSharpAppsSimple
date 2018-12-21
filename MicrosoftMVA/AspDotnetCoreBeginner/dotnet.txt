@@ -14,6 +14,7 @@ ASP.NET Core - Beginner from mva.microsoft.com
 
 Build Web App
 	*dotnet new -o web // will create the project.
+	*dotnet new razor // builds a .net core web app
 	in Startup.cs - configureServices by 
 		services.AddMvc();
     
@@ -24,4 +25,16 @@ Build Web App
 	add a pages folder to the project, nest a Index.cshtml file within it.
 		is this referred to as a RAZOR file?
 		to add C# code in the html elements, prefix the code inline with @. 
+
+appsettings.json
+	this is were we configure the applications. It should be a child of the project folder.
+	configuration is a service that we can "inject" into our page.
+	Within the Startup class,
+		create a startup constructor and give it an arguement of config, of type IConfiguration. It may need a namespace...
 		
+RAZOR pages
+	razor pages add extra pages, such as about, contact, etc pages
+	viewImports stores the injects and using statements that we want to include on all pages.
+	layout.cshtml is the html file that holds our page layout. Down in the main body is the @RenderBody() injection,
+	@RenderBody()
+		This is where our Razor page is referenced.
