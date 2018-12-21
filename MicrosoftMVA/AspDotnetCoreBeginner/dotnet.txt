@@ -1,0 +1,27 @@
+Must have skills in this field usually include HTML, ASP.NET, C# or VB.NET, SQL Server and ADO.NET.
+
+dot.net
+.netconf
+after mva, do the docs.microsoft.com net tutorials and challanges.
+
+ASP.NET Core - Beginner from mva.microsoft.com
+
+* build and run an app with $ dotnet run  - from the project directory.
+* when creating apps from the console use the '$ dotnet new' keyword. such as:
+	*$ dotnet new console
+	*$ dotnet new -o web
+		// when we run the web app, it will start a local host/ web server
+
+Build Web App
+	*dotnet new -o web // will create the project.
+	in Startup.cs - configureServices by 
+		services.AddMvc();
+    
+	now use the service in Configure()
+		app.UseMvc();
+		//using mvc will bypass the app.run in configure. It will now look for Index.cshtml, if it does not find index, it will default to whatever is within app.Run.
+		
+	add a pages folder to the project, nest a Index.cshtml file within it.
+		is this referred to as a RAZOR file?
+		to add C# code in the html elements, prefix the code inline with @. 
+		
