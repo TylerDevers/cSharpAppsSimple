@@ -12,3 +12,12 @@
 /home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorTargetAssemblyInfo.cache
 /home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.dll
 /home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.pdb
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.TagHelpers.input.cache
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.TagHelpers.output.cache
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorCoreGenerate.cache
+/home/tyler/Projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.Views.dll
+/home/tyler/Projects/myWebApp/bin/Debug/netcoreapp2.2/myWebApp.Views.pdb
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/Razor/Pages/Index.g.cshtml.cs
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.RazorTargetAssemblyInfo.cs
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.Views.pdb
+/home/tyler/Projects/myWebApp/obj/Debug/netcoreapp2.2/myWebApp.csproj.CopyComplete
