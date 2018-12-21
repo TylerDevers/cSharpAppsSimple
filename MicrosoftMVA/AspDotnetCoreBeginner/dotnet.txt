@@ -38,3 +38,8 @@ RAZOR pages
 	layout.cshtml is the html file that holds our page layout. Down in the main body is the @RenderBody() injection,
 	@RenderBody()
 		This is where our Razor page is referenced.
+
+CRUD  --  create a simple form, with fake cumstomers, put them in a database.
+	Create Read Update Delete or:
+	add a data base to our web app
+	
