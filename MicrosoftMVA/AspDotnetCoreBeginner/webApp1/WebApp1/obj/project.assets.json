@@ -12087,19 +12087,18 @@
       "projectName": "WebApp1",
       "projectPath": "/home/tyler/Projects/MicrosoftMVA/AspDotnetCoreBeginner/webApp1/WebApp1/WebApp1.csproj",
       "packagesPath": "/home/tyler/.nuget/packages/",
-      "outputPath": "/home/tyler/Projects/MicrosoftMVA/AspDotnetCoreBeginner/webApp1/WebApp1/obj",
+      "outputPath": "/home/tyler/Projects/MicrosoftMVA/AspDotnetCoreBeginner/webApp1/WebApp1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/tyler/.config/NuGet/NuGet.Config"
+        "/home/tyler/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "/home/tyler/MonoPackages/NeSpeak-master": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12119,7 +12118,8 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )"
+            "version": "[2.2.0, )",
+            "autoReferenced": true
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
