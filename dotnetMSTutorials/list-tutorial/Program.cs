@@ -7,7 +7,12 @@ namespace list_tutorial
     {
         static void Main(string[] args)
         {
-            var names = new List<string> { "Iris", "Nathan", "Random Dude"};
+            //WorkingWithStrings();
+        }
+
+        private static void WorkingWithStrings()
+        {
+            var names = new List<string> { "Iris", "Nathan", "Random Dude" };
 
             names.Add("Dad");
             names.Add("Mom");
@@ -16,6 +21,28 @@ namespace list_tutorial
             foreach (var name in names)
             {
                 Console.WriteLine($"Hello {name.ToUpper()}");
+            }
+
+            Console.WriteLine($"My name is {names[0]}");
+            Console.WriteLine($"I've added the names {names[2]} and {names[3]} to the list.");
+
+            Console.WriteLine("What name would you like to search for?");
+            var check = Console.ReadLine();
+
+            var index = names.IndexOf(check);
+            if (index == -1)
+            {
+                Console.WriteLine($"This name is not in the list. When a name is not found. IndexOf returns {index}");
+            }
+            else
+            {
+                Console.WriteLine($"The name {check} was found at index {index}");
+            }
+
+            names.Sort();
+            foreach (var name in names)
+            {
+                Console.WriteLine(name);
             }
         }
     }
