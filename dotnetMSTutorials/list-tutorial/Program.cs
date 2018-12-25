@@ -7,7 +7,11 @@ namespace list_tutorial
     {
         static void Main(string[] args)
         {
-            var names = new List<string> {"Mom", "Dad", "Iris", "Nathan"};
+            var names = new List<string> { "Iris", "Nathan", "Random Dude"};
+
+            names.Add("Dad");
+            names.Add("Mom");
+            names.Remove("Random Dude");
 
             foreach (var name in names)
             {
