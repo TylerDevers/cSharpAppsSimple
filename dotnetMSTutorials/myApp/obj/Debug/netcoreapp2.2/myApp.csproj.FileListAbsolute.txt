@@ -1,0 +1,11 @@
+/home/tyler/Projects/dotnetMSTutorials/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/home/tyler/Projects/dotnetMSTutorials/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/home/tyler/Projects/dotnetMSTutorials/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/home/tyler/Projects/dotnetMSTutorials/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/home/tyler/Projects/dotnetMSTutorials/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/home/tyler/Projects/dotnetMSTutorials/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
