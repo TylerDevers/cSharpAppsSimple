@@ -5,6 +5,7 @@ namespace list_tutorial
 {
     class Program
     {
+        // exercises from docs.microsoft.com list collections
         static void Main(string[] args)
         {
             //WorkingWithStrings();
