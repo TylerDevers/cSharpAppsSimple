@@ -1,0 +1,11 @@
+/home/tyler/Projects/dotnetMSTutorials/classes/bin/Debug/netcoreapp2.2/classes.deps.json
+/home/tyler/Projects/dotnetMSTutorials/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.json
+/home/tyler/Projects/dotnetMSTutorials/classes/bin/Debug/netcoreapp2.2/classes.runtimeconfig.dev.json
+/home/tyler/Projects/dotnetMSTutorials/classes/bin/Debug/netcoreapp2.2/classes.dll
+/home/tyler/Projects/dotnetMSTutorials/classes/bin/Debug/netcoreapp2.2/classes.pdb
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.csprojAssemblyReference.cache
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfoInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.AssemblyInfo.cs
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.dll
+/home/tyler/Projects/dotnetMSTutorials/classes/obj/Debug/netcoreapp2.2/classes.pdb
