@@ -1,0 +1,11 @@
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/bin/Debug/netcoreapp2.2/consoleTeleprompter.deps.json
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/bin/Debug/netcoreapp2.2/consoleTeleprompter.runtimeconfig.json
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/bin/Debug/netcoreapp2.2/consoleTeleprompter.runtimeconfig.dev.json
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/bin/Debug/netcoreapp2.2/consoleTeleprompter.dll
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/bin/Debug/netcoreapp2.2/consoleTeleprompter.pdb
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.csprojAssemblyReference.cache
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.csproj.CoreCompileInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.AssemblyInfoInputs.cache
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.AssemblyInfo.cs
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.dll
+/home/tyler/Projects/dotnetMSTutorials/consoleTeleprompter/obj/Debug/netcoreapp2.2/consoleTeleprompter.pdb
